@@ -6,8 +6,7 @@ This project is part of the **Machine Learning Internship** offered by **Prodigy
 
 ## 📊 Task Objective
 
-Implement a **K-Means Clustering** algorithm to segment customers of a retail store based on:
-
+Create a **K-Means Clustering algorithm** to group customers of a retail store based on their **purchase history**, focusing on:
 - **Annual Income** (`Annual Income (k$)`)
 - **Spending Score** (`Spending Score (1-100)`)
 
